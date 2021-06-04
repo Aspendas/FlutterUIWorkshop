@@ -1,6 +1,6 @@
-# online_course_app
+# Online_course_app
 
-Flutter online course app.
+Flutter online course app added.
 
 ## Getting Started
 
